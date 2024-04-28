@@ -1,5 +1,7 @@
 # [MJU LIKELION OFFICIAL Project](https://mju-likelion.org/)
-![main](https://github.com/mju-likelion/mojito/assets/63037629/94e03f92-27d1-4cc3-9951-9d1ce46f6450)
+![screencapture-mju-likelion-org-2024-04-28-22_27_01](https://github.com/mju-likelion/custard-pudding/assets/110520124/8ae90e42-be9b-473e-bab2-4c0c69f019a6)
+
+
 
 ## 📂 Folder Structure
 
